@@ -2,7 +2,7 @@ import React ,{useState}from "react";
 import Pic1 from "../images/5_2.jpg";
 import Pic2 from "../images/1_2.jpg";
 import Pic3 from "../images/6_2.jpg";
-import Pic4 from "../images/7_2.png";
+import Pic4 from "../images/7_2.jpg";
 import { connect }  from "react-redux";
 import { addBasket } from "../actions/addAction";
 const Home=(props)=>{
