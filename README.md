@@ -2,9 +2,9 @@
 
 # Clone 
 
-	-> git clone https://github.com/kalyanivetal/shopping-cart-reactjs.git
+	 git clone https://github.com/kalyanivetal/shopping-cart-reactjs.git
 	
-	## cd shopping-cart-reactjs	
+	 cd shopping-cart-reactjs	
 	
 	
 ## RUN
